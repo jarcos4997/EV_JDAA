@@ -1,2 +1,4 @@
 John David
 Arcos Arcos
+Java 
+SQL MySql
